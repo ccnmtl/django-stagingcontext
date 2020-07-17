@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: django-stagingcontext
+Version: 0.1.0
+Summary: staging environment context processor
+Home-page: UNKNOWN
+Author: Anders Pearson
+Author-email: anders@columbia.edu
+License: BSD
+Description: staging environment context processor
+Platform: any
