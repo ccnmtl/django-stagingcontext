@@ -1,4 +1,4 @@
-# Copyright (c) 2013, Columbia Center For New Media Teaching And Learning (CCNMTL)
+# Copyright (c) 2013-2024, Columbia University's Center for Teaching And Learning (CTL)
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -29,7 +29,7 @@ setup(
     name="django-stagingcontext",
     version="0.1.0",
     author="Anders Pearson",
-    author_email="anders@columbia.edu",
+    author_email="ctl-dev@columbia.edu",
     url="",
     description="staging environment context processor",
     long_description="staging environment context processor",
