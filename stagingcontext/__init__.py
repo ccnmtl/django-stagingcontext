@@ -6,8 +6,6 @@ import time
 def staging_processor(request):
     return {
         'STAGING_ENV': getattr(settings, 'STAGING_ENV', False),
-        'ENVIRONMENT': getattr(settings, 'ENVIRONMENT', 'development'),
-
         # since our deploy process wipes and recreates the virtualenv
         # each time, we can rely on the modification time for this file
         # roughly reflecting the deployment time
